@@ -2,8 +2,8 @@
 
 #### 🤔 Who Am I!?
 
-- 🏫 I am an undergrad pursuing B.Tech in IT from MAKAUT, Haringhata (W.B.) [2024].
-- ⚡️ My expertise lies primarily in JavaScript, React, Next.JS, Firebase, and Web Development in general along with a keen interest in UI/UX Designs.
+- 🏫 I am an undergrad pursuing B.Tech in CSE from MAKAUT, Haringhata (W.B.) [2024].
+- ⚡️ My expertise lies primarily in JavaScript, React and Web Development in general along with a keen interest in UI/UX Designs.
 
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
 
